@@ -33,26 +33,26 @@
 ### 範例 1: 測試圖片 (`./image/test_data.png`)
 
 原始圖片：  
-![原始圖片](./image/test_data.png)
+![原始圖片](/image/test_data.png)
 
 處理結果：  
 - 邊緣檢測  
-  ![Edge Detection Result](./image/edge_detection_result.webp)
+  ![Edge Detection Result](/image/edge_detection_result.webp)
 - 影像平滑  
-  ![Smoothing Result](./image/smoothing_result.webp)
+  ![Smoothing Result](/image/smoothing_result.webp)
 
 ---
 
 ### 範例 2: Coins (`./image/coins.png`)
 
 原始圖片：  
-![原始圖片](./image/coins.png)
+![原始圖片](/image/coins.png)
 
 處理結果：  
 - 邊緣檢測  
-  ![Edge Detection Result](./image/edge_detection_result_coins.webp)
+  ![Edge Detection Result](/image/edge_detection_result_coins.webp)
 - 影像平滑  
-  ![Smoothing Result](./image/smoothing_result_coins.webp)
+  ![Smoothing Result](/image/smoothing_result_coins.webp)
 
 ## 依賴套件
 
